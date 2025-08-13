@@ -1,1 +1,2 @@
-"# Linear regression notebooks" 
+"# AI Class notebooks" 
+
